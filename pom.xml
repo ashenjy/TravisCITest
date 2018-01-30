@@ -6,7 +6,6 @@
 	<groupId>com.exampleTravisCI</groupId>
 	<artifactId>TravisCIProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 
 	<name>TravisCIProject</name>
 	<description>Travis CI and Heroku Project</description>
@@ -50,6 +49,7 @@
 		</dependency>
 	</dependencies>
 
+	
 	
 	<build>
 		<plugins>
